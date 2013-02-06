@@ -1,6 +1,6 @@
 Performer: Alberto Bianco
 music: Mario Melfi
-source: http://letrasyacordes.net/i_cancion/90457
+source: letrasyacordes.net
 words: Mario Battistella 
 
 intro 
