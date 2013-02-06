@@ -5,7 +5,7 @@ Performer: Carlos Gardel
 
   Em         E7       Em7
 Cuartito azul dulce morada de mi vida
-        D7         G     B7      Em  -E7
+        D7         G     B7      Em  E7
 fiel testigo de mi tierna  juventud
          Am           Am7
 llegó la hora de la triste despedida...
@@ -26,7 +26,7 @@ E      B7     E  G#7
    Cuartito azul
 Cm          G#7      Am
    de mi primera pasión
-        C7    Fm  -C7-Fm
+        C7    Fm   C7 Fm
     vos guardarás
          C7      Fm
     todo mi corazón
@@ -36,7 +36,7 @@ B7                  E   G#m
    volviera la que amé
 Cm           Fm   G#7             Cm
    vos le dirás  que nunca la olvidé
-B7           E   -G#7
+B7           E   G#7
    Cuartito azul
 Cm         G#7        Cm
    hoy te canto mi adiós
