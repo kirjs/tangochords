@@ -1,4 +1,4 @@
 tangochords
 ===========
 
-Tango Chords
+This is an archive of chords for http://tangochords.com
