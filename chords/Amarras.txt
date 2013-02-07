@@ -4,11 +4,11 @@ Music: Carlos Marchisio
 Performer: Héctor Mauré
 
 intro 
-G G#dim D/A B7 Em A7 D6       G A
+G G#dim D H7 Em A7 D6       G A
 
  D                  Hm                          F#m                          A
 Vago como sombra atormentada bajo el gris de la recova, me contemplo y no soy nada...  
- G          B7     Em                       A7                      D
+ G          H7     Em                       A7                      D
 Soy como mi lancha carbonera que ha quedado recalada, bien atada a la ribera.  
                       C#7                             A7
 Yo también atado a mi pasado soy un barco que está anclado  
@@ -32,12 +32,12 @@ Yo sólo sé que pené, que caí y que rodé al abismo del fracaso...
 Yo sólo sé que tu adiós, en la burla del dolor, me acompaña paso a paso.  
                                       D7            G                G#
 Ahora que sé que no vendrás, vago sin fin por la recova, busco valor para partir;  
-       D/A      B7                     Em              A7         D
+       D      H7                     Em              A7         D
 para alejarme... y así olvidando mi obsesión, lejos de ti, poder morir.  
 
                       Hm                        F#m                          A
 Pero vivo atado a mi pasado, tu recuerdo me encadena, soy un barco que está anclado.  
- G          B7      Em                       A7                      D
+ G          H7      Em                       A7                      D
 Sé que únicamente con la muerte cesarán mis amarguras; cambiará mi mala suerte.  
                       C#7                          A7
 Vago con la atroz melancolía de una noche gris y fría;  
@@ -53,6 +53,6 @@ Soy como mi lancha carbonera, que ha quedado en la ribera, no parte más.
 
 D                                     D7            G                G# 
 Ahora que sé que no vendrás, vago sin fin por la recova, busco valor para partir;  
-       D/A      B7                     Em              A7                   A7 D
+       D      H7                     Em              A7                   A7 D
 para alejarme... y así olvidando mi obsesión, lejos de ti, poder morir. 
   
