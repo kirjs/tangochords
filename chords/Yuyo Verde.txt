@@ -3,22 +3,22 @@ genre: tango
 
 C           E
 Callejón... callejón...
-   A7       Dm
+A7       Dm
 lejano... lejano...
 G7                    C
 íbamos perdidos de la mano
-                    F
+F
 bajo un cielo de verano
-            G7
+G7
 soñando en vano...
 
 C           E
 un farol... un portón
-	A7     Dm
+A7     Dm
 igual que en un tango
-  G7                    C
+G7                    C
 y los dos perdidos de la mano
-                   C9   D7 G
+C9   D7 G
 bajo el cielo de verano que partió...
 
 Cm
@@ -44,9 +44,9 @@ y aquel cariño...
 
 C           E
 un farol... un portón
-	A7     Dm
+A7     Dm
 igual que en un tango
-  G7                    C
+G7                    C
 y los dos perdidos de la mano
-                   C9   D7 G
+C9   D7 G
 bajo el cielo de verano que partió...
