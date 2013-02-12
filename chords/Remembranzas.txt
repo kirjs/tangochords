@@ -2,6 +2,7 @@ Performer: Alberto Bianco
 music: Mario Melfi
 source: letrasyacordes.net
 words: Mario Battistella
+genre: tango
 
 intro
 Dm G7 C
