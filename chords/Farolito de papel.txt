@@ -2,7 +2,7 @@ Genre: Tango
 Words: Francisco García Jiménez 
 Music: Mario Lespés / Teófilo Lespés
 Performer: Alberto Marino
-Sourse: http://letrasyacordes.net/cancion/90067/guitarra
+Source: http://letrasyacordes.net/cancion/90067/guitarra
 
 intro 
 Em Am  H7 E
