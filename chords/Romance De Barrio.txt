@@ -1,43 +1,42 @@
 Genre: Tango
 Performer: Troilo / Fiorentino
-
 INTRO
-Dm      E7       Am 
-FAm7/RE#  SOL7/RE E7        Am 
+Gm      A7       Dm 
+Dm7/C  E7/H   A7  Dm 
 
-  Am                   B7               E7       Am 
+  Dm                   E7                A7       Dm 
 Primero la cita lejana de Abril, tu oscuro balcón, tu antiguo jardín.
-     A7                  Dm            G7               C          E7 
+     D7                  Gm            C7               F          A7 
 Más tarde las cartas de pulso febril mintiendo que no, jurando que sí.
-    Am                     B7                 E7       Am          A7 
+    Dm                      E7                  A7       Dm          D7 
 Romance de barrio tu amor y mi amor. Primero un querer, después un dolor,
-    Dm         G7      C          E7            Am    E7       Am 
+    Gm         C7      F          A7            Dm    A7       Dm 
 por culpas que nunca tuvimos, por culpas que debimos pagar los dos.
 
-F#m/A#     E7                           Am 
+F#m/A#              A7                           Dm 
    ... Hoy vivirás despreciándome, tal vez sin pensar
-                   Dm     G7                   C   
+                   Gm     C7                   F   
 que lamento al no poderte tener el dolor de no saber olvidar.
- E7                          Am   Dm       F        E7 
+ A7                          Dm   Gm       A#       A7 
 Hoy estarás como nunca lejos mío, lejos de tanto llorar.
 
-Dm             E7                  Am 
+Gm             A7                  Dm 
 Fue porque sí, que es despecho te sego como a mí,
-    Dm7/C          E7/H            E7             Am           A7 
+    Dm7/C          SOL7/RE            A7             Dm           D7 
 sin mirar que en el rencor del adiós castigabas con crueldad tu corazón.
-Dm              E7                 Am 
+Gm              A7                 Dm 
 Fue porque sí que de pronto no supimos pensar,
-Dm7/C         E7/H         E7              Am 
+Dm7/C      E7/H         A7              Dm 
 que más fácil renegar y partir que vivir sin olvidar.
 
-Dm      E7       Am 
-FAm7/RE#  SOL7/RE E7        Am 
+Gm      A7       Dm 
+Dm7/C  E7/H A7        Dm 
 
-  Am                        B7                  E7          Am 
+  Dm                        E7                     A7          Dm 
 Ceniza del tiempo la cita de Abril, tu oscuro balcón, tu antiguo jardín,
-     A7                  Dm            G7               C          E7 
+     D7                  Gm            C7               F          A7 
 las cartas trazadas con mano febril, mintiendo que no, jurando que sí.
-    Am                     B7                  E7       Am          A7 
+    Dm                    E7                A7       Dm          D7 
 Retornan vencidas tu voz y mi voz trayendo al volver con tonos de horror,
-    Dm         G7      C          E7            Am    E7       Am 
+    Gm         C7      F          A7            Dm    A7       Dm 
 las culpas que nunca tuvimos, las culpas que debimos pagar los dos.
